@@ -12,7 +12,13 @@
 
 ![](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 
-![](https://img.shields.io/badge/-ReactJs-61DAFB?style=for-the-badge&logo=react&logoColor=white) ![](https://img.shields.io/badge/-Flutter-0553B1?style=for-the-badge&logo=flutter&logoColor=white)
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+![](https://img.shields.io/badge/Ruby-CC342D.svg?style=for-the-badge&logo=Ruby&logoColor=white) ![](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![](https://img.shields.io/badge/-ReactJs-61DAFB?style=for-the-badge&logo=react&logoColor=white) 
+
+![](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![](https://img.shields.io/badge/-Flutter-0553B1?style=for-the-badge&logo=flutter&logoColor=white)
 
 
 ![](https://img.shields.io/badge/-Haskell-5e5086?style=for-the-badge&logo=Haskell&logoColor=white)  ![](https://img.shields.io/badge/-Racket-9f1d20?style=for-the-badge&logo=Racket&logoColor=white) 

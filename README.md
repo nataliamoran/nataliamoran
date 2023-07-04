@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=nataliamoran&theme=dark&show_icons=true&hide=contribs,prs">
-</br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliamoran&layout=compact&theme=dark">
 </p>
 
